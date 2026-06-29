@@ -1,5 +1,8 @@
-# Eletronica_Fonte
+# Eletrônica - Fonte
 Eletrônica para computação
 | Alunos | Número USP|
 |--------|------------|
 | Cecília Pignatelli de Oliveira | 17884078 |
+|   |   |
+|   |   |
+
