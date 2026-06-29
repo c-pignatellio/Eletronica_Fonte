@@ -12,11 +12,14 @@ O projeto da fonte é o primeiro da disciplina e consiste em uma fonte de energi
 led para verificação do funcionamento.
 
 ##Lista de componentes 
-| Componente | Preço |
-|----------|---------|
-| Capacitor | |
-| Ponte de Diodos | |
-| Diodo Zener | |
-| Potenciômetro | |
-| Transistor | |
-| Led 5mm vermelho | |
+| Quantidade | Componente | Preço |
+|-------|-------|---------|
+| 1| Capacitor 470uF | 5,50 |
+| 1 |Ponte de Diodos 2W10M | 4,10 |
+| 1 |Diodo Zener 13V | 0,50 |
+| 1 |Potenciômetro  10K | 7,00 |
+| 1 | Transistor TIP31C  | 12,00 |
+| 1 |Led 5mm vermelho | 0,50 |
+| 2 | Resistor 4,7k | 0,14 |
+| 1 | Resistor 1,2k | 0,07 |
+
