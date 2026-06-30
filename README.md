@@ -14,14 +14,14 @@ led para verificação do funcionamento.
 ## Lista de componentes 
 | Quantidade | Componente | Preço |
 |-------|-------|---------|
-| 1| Capacitor 470uF | 5,50 |
-| 1 |Ponte de Diodos 2W10M | 4,10 |
-| 1 |Diodo Zener 13V | 0,50 |
-| 1 |Potenciômetro  10K | 7,00 |
-| 1 | Transistor TIP31C  | 12,00 |
-| 1 |Led 5mm vermelho | 0,50 |
-| 2 | Resistor 4,7k | 0,14 |
-| 1 | Resistor 1,2k | 0,07 |
+| 1| Capacitor 470uF | R$5,50 |
+| 1 |Ponte de Diodos 2W10M | R$4,10 |
+| 1 |Diodo Zener 13V | R$0,50 |
+| 1 |Potenciômetro  10K | R$7,00 |
+| 1 | Transistor TIP31C  | R$12,00 |
+| 1 |Led 5mm vermelho | R$0,50 |
+| 2 | Resistor 4,7k | 2x R$0,07 |
+| 1 | Resistor 1,2k | R$0,07 |
 
 ## Link para simulação no Falstad: 
 https://tinyurl.com/22u7vwne
