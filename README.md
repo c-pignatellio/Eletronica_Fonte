@@ -11,7 +11,7 @@ O projeto da fonte é o primeiro da disciplina e consiste em uma fonte de energi
 3V e 12V, controlada por um potênciômetro. Os componentes principais são: transformador, capacitor, ponte de diodos, diodo zener, potenciômetro, transistor e um
 led para verificação do funcionamento.
 
-##Lista de componentes 
+## Lista de componentes 
 | Quantidade | Componente | Preço |
 |-------|-------|---------|
 | 1| Capacitor 470uF | 5,50 |
@@ -23,3 +23,5 @@ led para verificação do funcionamento.
 | 2 | Resistor 4,7k | 0,14 |
 | 1 | Resistor 1,2k | 0,07 |
 
+## Link para simulação no Falstad: 
+https://tinyurl.com/22u7vwne
