@@ -4,7 +4,7 @@ Eletrônica para computação - 2026.1
 |--------|------------|
 | Cecília Pignatelli de Oliveira | 17884078 |
 | Pedro Henrique Maciel Araújo  | 17872210 |
-| Laís  |   |
+| Laís Pinheiro Johonson  |  17903436 |
 
 ## Descrição do Projeto
 O projeto da fonte é o primeiro da disciplina e consiste em uma fonte de energia linear que transforma a entrada de tensão alterada em uma saída regulada entre
